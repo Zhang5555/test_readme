@@ -23,3 +23,6 @@
 3、图像透视变换矩阵绝对路径为/home/westwell/Documents/wellocean/src/param/perspective/project/lane_num/cam_name下，命名为cam_name.npy，如/home/westwell/Desktop/wellocean/src/param/perspective/zimao/channel_0/plate/perspective.npy，还要注意的是cam_name可能以数字命名，也可能以'plate'、'front'等命名
 4、配置从Redis服务器topic名称为'/WellOcean/config'
 5、该类的一个实例只会处理一个摄像头的图像
+###
+![image](./tmp/1.jpg)
+
